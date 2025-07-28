@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dunk-calculator.lovestoblog.com/sitemap.xml
