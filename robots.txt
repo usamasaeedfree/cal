@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dunk-calculator.lovestoblog.com/sitemap.xml
+Sitemap: https://usamasaeedfree.github.io/cal/sitemap.xml
